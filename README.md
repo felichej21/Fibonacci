@@ -1,0 +1,2 @@
+# Fibonacci
+Create a simple website that present the following text: “The Fibonacci of X is Y” (The Fibonacci sequence starts with 0, 1, 1, 2, 3, 5, 8 and so forth, so the Fibonacci of  1 is 1, the Fibonacci of 2 is also 1), where X &amp; Y are numbers declared in your JS code (should present numbers instead) X and Y should be declared as JS variables. Both X and Y should be added to the HTML with JavaScript (meaning, do not write the value of X and Y directly in your HTML code, use Javascript to do that)
