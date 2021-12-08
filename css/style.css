@@ -1,0 +1,94 @@
+.page-wrapper {
+    margin: 6.25rem 10.25rem 0 10.25rem;
+  }
+  .calc {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+  }
+  
+  .loader {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  .error {
+    color: red;
+    background: #f2dede;
+    border: 0.0625rem solid #ebcccc;
+    width: 11.25rem;
+    height: 2.0625rem;
+  }
+  
+  .error-input {
+    border: 0.0625rem solid red;
+    box-sizing: border-box;
+    border-radius: 0.25rem;
+    color: red;
+  }
+  
+  .error-msg {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    width: 18.75rem;
+    color: red;
+  }
+  
+  .number {
+    width: 5.375rem;
+    height: 2.375rem;
+  }
+  
+  .sub {
+    width: 11.8125rem;
+  }
+  
+  .result {
+    margin-top: 10rem;
+    width: 85%;
+  }
+  
+  input.save-calc {
+    width: 0.875rem;
+  }
+  
+  .save-calc {
+    font-size: 0.75rem;
+  }
+  
+  body {
+    font-family: "Open Sans", sans-serif;
+    color: #373a3c;
+  }
+  
+  h1 {
+    font-size: 4.5rem;
+    line-height: 4.9375rem;
+    margin-bottom: 3.125rem;
+    width: 42rem;
+    height: 4.9375rem;
+  }
+  
+  h2 {
+    font-size: 3.375rem;
+    line-height: 4.5rem;
+  }
+  
+  button {
+    background-color: #0275d8 !important;
+    font-size: 1rem;
+  }
+  
+  input {
+    width: 10%;
+  }
+  
+  select {
+    width: 7.625rem;
+    background-color: #e6e6e6 !important;
+    border: 0.0625rem solid #cccccc !important;
+    box-sizing: border-box;
+  }
+  
+  option {
+    border: 1px solid #cccccc !important;
+    box-sizing: border-box;
+  }
